@@ -24,7 +24,7 @@ The project involves the following steps:
 - **Matplotlib and Seaborn**: For data visualization
 
 ## Results
-The model achieved an accuracy of approximately 91.74% on the validation set, indicating strong performance in distinguishing between phishing and non-phishing websites.
+The model achieved an accuracy of approximately 92.86% on the validation set, indicating strong performance in distinguishing between phishing and non-phishing websites.
 
 ## How to Use
 1. Clone the repository.
